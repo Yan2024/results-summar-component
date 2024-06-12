@@ -1,5 +1,7 @@
 ## Desafio do site Frontend Mentor
 
+Para ver o meu design, basta clicar em [Results Summary Component - My design] (https://yan2024.github.io/results-summar-component/)
+
 O site Frontend Mentor é uma famosa plataforma de desafios relacionados a front-end. 
 
 Basta clicar em [Frontend Mentor] (https://www.frontendmentor.io/) para visitar o site.
