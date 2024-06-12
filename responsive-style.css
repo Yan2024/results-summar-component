@@ -1,0 +1,63 @@
+@media (max-width: 800px) {
+    div {
+        width: 375px;
+        height: 809px;
+        align-items: center;
+        flex-direction: column;
+        background-color: white;
+        box-shadow: none;
+
+        main {
+            margin-top: 24px;
+            border-radius: 0 0 30px 30px;
+            width: 100%;
+
+            section.result {
+                width: 132px;
+                height: 132px;
+
+                p {
+                    font-size: 16px;
+                }
+            }
+
+            span {
+            font-size: 48px;
+            }
+
+            p.status {
+                font-size: 28px;
+            }
+
+            p.text {
+                font-size: 16px;
+                width: 280px;
+                margin-bottom: 36px;
+            }
+        }
+
+        aside {
+            gap: 4px;
+            width: 100%;
+            padding: 0 8%;
+            border-radius: 0 0 0 0;
+
+            p.title {
+                margin: 8px 0;
+            }
+
+            section {
+
+                margin-top: 12px;
+
+                p {
+                    font-size: 16px;
+                }
+            }
+
+            button {
+                margin: 24px 0;
+            }
+        }
+    }
+}
